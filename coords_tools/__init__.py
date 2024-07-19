@@ -1,0 +1,1 @@
+from .main import get_area_coords
